@@ -1,26 +1,21 @@
-### Hi, I'm Nikhil Verma (Niko) 👋
+### Nikhil Verma (Niko)
 
-**Data Engineer** with **4+ years of experience** building reliable cloud data products, modernizing legacy data platforms, and sharing practical **DATA + AI** breakdowns.
+**Data Engineer** with 4+ years of experience building cloud data products, migrating legacy warehouses to GCP, and shipping practical **DATA + AI** pipelines.
 
 > *"Great pipelines aren't enough. Data creates value only when it's trusted, understood, and connected to a real business problem."*
 
----
+| Domain | Core Tools & Practices |
+| :--- | :--- |
+| **Cloud & Warehousing** | BigQuery, Dataproc, Dataflow, Cloud Run, GCS |
+| **Processing & Modeling** | Python, SQL, PySpark, dbt, Apache Spark, Hadoop, Teradata, PostgreSQL |
+| **Orchestration & IaC** | Apache Airflow (Astronomer), Data Fusion, Terraform, DataStage |
+| **Reliability & Quality** | Automated testing, SonarQube, FOSSA scans, Git, GitHub Actions, Gemini APIs |
 
-### 🛠 Core Engineering Stack
-* **Cloud & Warehousing:** Google Cloud Platform (BigQuery, Dataproc, Dataflow, Cloud Run, GCS)
-* **Processing & Modeling:** Python, SQL, PySpark, dbt, Apache Spark, Hadoop, Teradata, PostgreSQL
-* **Orchestration & IaC:** Apache Airflow (Astronomer), Data Fusion, Terraform, DataStage
-* **Quality, Security & Automation:** Automated testing, SonarQube, FOSSA scans, Git, GitHub Actions, Gemini APIs
+### Engineering Focus
+* **Cloud Migrations & Modernization:** Moving legacy Hadoop and Teradata workloads onto scalable GCP architectures.
+* **Data Modeling & FinOps:** Designing trusted analytical tables and balancing storage/compute costs against real business impact.
+* **Applied DATA + AI:** Building structured data flows and AI-assisted automation designed for production reliability.
 
----
-
-### 🚀 What I Focus On
-* **End-to-End Data Products:** Designing ingestion, transformation, and analytics-ready models that teams trust in production.
-* **Cloud Modernization & FinOps:** Moving legacy warehouse/batch workloads to GCP and optimizing query/storage cost-to-value trade-offs.
-* **Daily DATA + AI Content:** Publishing structured posts, 4:5 sketch-note visuals, and narrated short explainers on LinkedIn.
-
----
-
-### 📫 Connect With Me
+### Connect
 * **LinkedIn:** [linkedin.com/in/nikhilvermaji](https://www.linkedin.com/in/nikhilvermaji/)
 * **Location:** Delhi / Chennai, India
