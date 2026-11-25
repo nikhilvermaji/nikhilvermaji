@@ -1,21 +1,20 @@
-### Nikhil Verma (Niko)
+# Nikhil Verma · Niko
 
-**Data Engineer** with 4+ years of experience building cloud data products, migrating legacy warehouses to GCP, and shipping practical **DATA + AI** pipelines.
+**Data Engineer** · Cloud Data Platforms, Warehouse Modernization & **DATA + AI**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhilvermaji-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilvermaji/)
+![GCP](https://img.shields.io/badge/GCP-BigQuery%20%7C%20Dataproc%20%7C%20Dataflow-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20PySpark%20%7C%20dbt-1E293B?style=flat-square)
+![Orchestration](https://img.shields.io/badge/Orchestration-Airflow%20%7C%20Terraform-0F766E?style=flat-square)
 
 > *"Great pipelines aren't enough. Data creates value only when it's trusted, understood, and connected to a real business problem."*
 
-| Domain | Core Tools & Practices |
-| :--- | :--- |
-| **Cloud & Warehousing** | BigQuery, Dataproc, Dataflow, Cloud Run, GCS |
-| **Processing & Modeling** | Python, SQL, PySpark, dbt, Apache Spark, Hadoop, Teradata, PostgreSQL |
-| **Orchestration & IaC** | Apache Airflow (Astronomer), Data Fusion, Terraform, DataStage |
-| **Reliability & Quality** | Automated testing, SonarQube, FOSSA scans, Git, GitHub Actions, Gemini APIs |
+---
 
-### Engineering Focus
-* **Cloud Migrations & Modernization:** Moving legacy Hadoop and Teradata workloads onto scalable GCP architectures.
-* **Data Modeling & FinOps:** Designing trusted analytical tables and balancing storage/compute costs against real business impact.
-* **Applied DATA + AI:** Building structured data flows and AI-assisted automation designed for production reliability.
+### How I Build Data Systems
 
-### Connect
-* **LinkedIn:** [linkedin.com/in/nikhilvermaji](https://www.linkedin.com/in/nikhilvermaji/)
-* **Location:** Delhi / Chennai, India
+```mermaid
+flowchart LR
+    A["Sources & Legacy Systems<br/>(Hadoop · Teradata · PostgreSQL)"] --> B["Ingestion & Compute<br/>(Dataflow · Dataproc · PySpark · Python)"]
+    B --> C["Modeling & FinOps Layer<br/>(BigQuery · dbt · Partition & Cost Controls)"]
+    C --> D["Trusted Data Products & AI<br/>(Analytics · Automation · Workflows)"]
